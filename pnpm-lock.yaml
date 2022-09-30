@@ -1,14 +1,16 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@types/node': ^16.11.62
   '@vitejs/plugin-vue': ^3.1.0
   bulma: ^0.9.4
-  fuse.js: ^6.4.6
+  fuse.js: ^6.6.2
   vite: ^3.1.4
   vue: ^3.2.40
   vue-fuse: ^4.1.1
 
 dependencies:
+  '@types/node': 16.11.62
   bulma: 0.9.4
   fuse.js: 6.6.2
   vue: 3.2.40
@@ -60,6 +62,10 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@types/node/16.11.62:
+    resolution: {integrity: sha512-K/ggecSdwAAy2NUW4WKmF4Rc03GKbsfP+k326UWgckoS+Rzd2PaWbjk76dSmqdLQvLTJAO9axiTUJ6488mFsYQ==}
+    dev: false
 
   /@vitejs/plugin-vue/3.1.0_vite@3.1.4+vue@3.2.40:
     resolution: {integrity: sha512-fmxtHPjSOEIRg6vHYDaem+97iwCUg/uSIaTzp98lhELt2ISOQuDo2hbkBdXod0g15IhfPMQmAxh4heUks2zvDA==}

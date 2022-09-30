@@ -9,8 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "fuse.js": "^6.4.6",
+    "@types/node": "^16.11.62",
     "bulma": "^0.9.4",
+    "fuse.js": "^6.6.2",
     "vue": "^3.2.40",
     "vue-fuse": "^4.1.1"
   },
